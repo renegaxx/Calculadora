@@ -36,7 +36,7 @@ span {
     font-size: 60px;
 }
 h1 {
-    font-size: 60px;
+    font-size: 50px;
     color: white;
 }
 .teclado {
@@ -55,7 +55,7 @@ button {
     
 }
 header {
-    padding: 50px 0;
+    padding: 8px 0;
     color: #fff;
     text-align: center;
     justify-content: center;
